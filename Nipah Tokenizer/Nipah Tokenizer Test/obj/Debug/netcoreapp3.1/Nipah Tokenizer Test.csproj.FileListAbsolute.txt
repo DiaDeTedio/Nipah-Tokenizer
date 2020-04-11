@@ -1,0 +1,16 @@
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\bin\Debug\netcoreapp3.1\Nipah Tokenizer Test.exe
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\bin\Debug\netcoreapp3.1\Nipah Tokenizer Test.deps.json
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\bin\Debug\netcoreapp3.1\Nipah Tokenizer Test.runtimeconfig.json
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\bin\Debug\netcoreapp3.1\Nipah Tokenizer Test.runtimeconfig.dev.json
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\bin\Debug\netcoreapp3.1\Nipah Tokenizer Test.dll
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\bin\Debug\netcoreapp3.1\Nipah Tokenizer Test.pdb
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\bin\Debug\netcoreapp3.1\Nipah Tokenizer.dll
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\bin\Debug\netcoreapp3.1\Nipah Tokenizer.pdb
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\obj\Debug\netcoreapp3.1\Nipah Tokenizer Test.csprojAssemblyReference.cache
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\obj\Debug\netcoreapp3.1\Nipah Tokenizer Test.csproj.CoreCompileInputs.cache
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\obj\Debug\netcoreapp3.1\Nipah Tokenizer Test.AssemblyInfoInputs.cache
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\obj\Debug\netcoreapp3.1\Nipah Tokenizer Test.AssemblyInfo.cs
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\obj\Debug\netcoreapp3.1\Nipah Tokenizer Test.csproj.CopyComplete
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\obj\Debug\netcoreapp3.1\Nipah Tokenizer Test.dll
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\obj\Debug\netcoreapp3.1\Nipah Tokenizer Test.pdb
+C:\Users\Quasar-X\source\repos\Nipah Tokenizer\Nipah Tokenizer Test\obj\Debug\netcoreapp3.1\Nipah Tokenizer Test.genruntimeconfig.cache
